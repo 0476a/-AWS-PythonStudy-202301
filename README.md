@@ -1,2 +1,1 @@
-# AWS_PythonStudy_20230131
-[산대특] 파이썬 활용 공공데이터 분석 및 시각화
+# AWS-PythonStudy-202301
