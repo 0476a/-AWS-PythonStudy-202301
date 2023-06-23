@@ -1,4 +1,4 @@
-# AWS-PythonStudy-202301
+# -AWS-PythonStudy-202301
 
 ### [📖기술블로그](https://donotthinkjustdo.tistory.com/category/Python/%EC%82%B0%EB%8C%80%ED%8A%B9%28%ED%8C%8C%EC%9D%B4%EC%8D%AC%29)
 
